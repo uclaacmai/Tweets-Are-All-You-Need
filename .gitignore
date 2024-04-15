@@ -162,3 +162,4 @@ cython_debug/
 # Specific project files
 training.1600000.processed.noemoticon.csv
 dataset.csv
+*.pt
